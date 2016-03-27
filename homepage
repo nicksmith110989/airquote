@@ -1,0 +1,11 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <p>
+      <?php
+          echo "You get a 10% discount!";
+      ?>
+    </p>
+  </body>
+</html>
